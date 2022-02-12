@@ -1,4 +1,4 @@
-# Covid-19 Dashboard
+# Covid-19 Dashboard (with dash plotly)
 
 - Dashboard write in python 3.8.10
 
